@@ -1,1 +1,1 @@
-Este proyecto es una prueba de como crear un repositorio en github 
+Este es un proyecto del modulo 2
